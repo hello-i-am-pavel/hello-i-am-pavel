@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Pavel
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Backend+developer)](https://git.io/typing-svg)
 
